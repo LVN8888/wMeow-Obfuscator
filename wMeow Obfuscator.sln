@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wMeow Obfuscator", "wMeow Obfuscator\wMeow Obfuscator.csproj", "{0CD26DF3-D998-4785-AEE4-710346EE1573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{4412D7B9-710C-4433-944B-7CE491EDD989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runtime", "Runtime\Runtime.csproj", "{520B7746-86A7-4021-87B4-507236A14CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeoxDLibHelper", "MeoxDLibHelper\MeoxDLibHelper.csproj", "{828EEC38-4835-4932-9B3F-8582900BEA84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD26DF3-D998-4785-AEE4-710346EE1573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD26DF3-D998-4785-AEE4-710346EE1573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD26DF3-D998-4785-AEE4-710346EE1573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD26DF3-D998-4785-AEE4-710346EE1573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4412D7B9-710C-4433-944B-7CE491EDD989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4412D7B9-710C-4433-944B-7CE491EDD989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4412D7B9-710C-4433-944B-7CE491EDD989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4412D7B9-710C-4433-944B-7CE491EDD989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520B7746-86A7-4021-87B4-507236A14CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520B7746-86A7-4021-87B4-507236A14CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520B7746-86A7-4021-87B4-507236A14CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520B7746-86A7-4021-87B4-507236A14CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828EEC38-4835-4932-9B3F-8582900BEA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828EEC38-4835-4932-9B3F-8582900BEA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828EEC38-4835-4932-9B3F-8582900BEA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828EEC38-4835-4932-9B3F-8582900BEA84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {826FEA1A-74B1-4EBE-96FD-F4B86AAA7FB8}
+	EndGlobalSection
+EndGlobal
