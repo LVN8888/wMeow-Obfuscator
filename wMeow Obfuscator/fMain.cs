@@ -308,7 +308,7 @@ namespace wMeow_Obfuscator
         #endregion
         private void siticoneImageButton1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://www.facebook.com/iuBn.045692");
+            System.Diagnostics.Process.Start("https://www.facebook.com/siuiuNana");
         }
         public static bool vflag;
         private void virt_checkbox_CheckedChanged(object sender, EventArgs e)
